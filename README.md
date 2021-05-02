@@ -1,7 +1,7 @@
 <h1 align="center">   
   Plant Manager
 
-  <img alt="Logo" title="#Logo" src=".assets/icon.png" width="200px" />
+  <img title="#Logo" src=".assets/adaptive-icon.png" width="100px" />
 </h1>
 
 <h4 align="center">Atividade da Rocketseat NLW5, trilha React Native, voltada ao controle de regas no cultivo de plantas</h4>
