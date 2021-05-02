@@ -1,8 +1,8 @@
 <h1 align="center">   
   Plant Manager
-</h1>
 
-![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/preview.png)
+  ![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/icon.png)
+</h1>
 
 <h4 align="center">Atividade da Rocketseat NLW5, trilha React Native, voltada ao controle de regas no cultivo de plantas</h4>
 
