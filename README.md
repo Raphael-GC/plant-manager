@@ -1,5 +1,5 @@
 <h1 align="center">
-  ![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/icon.png)   
+  <img alt="Icon" title="#Icon" src=".assets/icon.png" width="100px" />()   
   Plant Manager
 </h1>
 
@@ -33,8 +33,8 @@
 
   <li> 5. Para visualizar a aplicação em sua máquina utilize: </li>
 
-  Windows - `yarn android` (Necessita de instalacao previa do Android Studio)
-  MacOS -  `yarn ios`
+  <ol> Windows - `yarn android` (Necessita de instalacao previa do Android Studio) </ol>
+  <ol> MacOS -  `yarn ios` </ol>
 </ul>
 
 ## 💬 Funcionalidades
