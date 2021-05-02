@@ -4,7 +4,7 @@
 
 <h2 align="center">   
 
-  ![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/adaptive-icon.png)  
+  ![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/favicon.png)  
 </h2>
 
 <h4 align="center">Atividade da Rocketseat NLW5, trilha React Native, voltada ao controle de regas no cultivo de plantas</h4>
