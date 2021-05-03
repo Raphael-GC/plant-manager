@@ -37,8 +37,13 @@
 
   <li> 5. Para visualizar a aplicação em sua máquina utilize: </li>
 
-  <ol> Windows - `yarn android` (Necessita de instalacao previa do Android Studio) </ol>
-  <ol> MacOS -  `yarn ios` </ol>
+  <ol> Windows - (Necessita de instalacao previa do Android Studio) </ol>
+
+`yarn android` | `expo start`
+  
+  <ol> MacOS -  </ol>
+
+`yarn ios` | `expo start`
 </ul>
 
 ## 💬 Funcionalidades
@@ -53,7 +58,29 @@
 <a href="https://www.youtube.com/watch?v=vrABToPdOyg&list=LL&index=15" target="_blank">Dia 1</a> 
 - Instalação de dependências (nodejs, react-native, expo-cli, typescript).
 - Criação e estilização do componente Button.
-- Explicação sopre Propriedades (Props) e Estados (useState).
+- Explicação sobre Propriedades (Props) e Estados (useState).
+
+<a href="https://www.youtube.com/watch?v=R19Dz_d0Wp4&list=LL&index=14" target="_blank">Dia 2</a>
+- Refatoração do código feito ontem.
+- Instalação da API do Expo voltada ao uso de ícones.
+ 
+`expo install @expo/vector-icons`
+
+- Instalação da API do Expo voltada ao uso de fonts (Usando o CDN do próprio Google Fonts).
+
+`expo install expo-font @expo-google-fonts/inter`
+
+- Instalação da API do Expo que utilizamos na tela de carregamento.
+
+`expo install expo-app-loading`
+
+- Instalação das APIs do React que utilizamos para navegação entre as páginas.
+
+`yarn add @react-navegation/native`
+`expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
+`yarn add @react-navigation/stack`
+
+- Criação das rotas e boas práticas de UX.
 
 ## :pencil: Author
 
