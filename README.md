@@ -10,9 +10,9 @@
 <h4 align="center">Atividade da Rocketseat NLW5, trilha React Native, voltada ao controle de regas no cultivo de plantas</h4>
 
 <p align="center">
-  <a href="#Como ">Como executar</a> •
-  <a href="#Funcionalidades">Funcionalidades</a> •
-  <a href="#Cronograma">Cronograma</a>
+  <a href="# 🚀 Como ">Como executar</a> •
+  <a href="# 💬 Funcionalidades">Funcionalidades</a> •
+  <a href="# ⌚ Cronograma">Cronograma</a>
 </p>
 
 ![](https://github.com/Raphael-GC/plant-manager/blob/main/assets/preview.png)
@@ -55,12 +55,12 @@
 </ul>
 
 ## ⌚ Cronograma
-<a href="https://www.youtube.com/watch?v=vrABToPdOyg&list=LL&index=15" target="_blank">Dia 1</a> 
+<a>Dia 1</a> 
 - Instalação de dependências (nodejs, react-native, expo-cli, typescript).
 - Criação e estilização do componente Button.
 - Explicação sobre Propriedades (Props) e Estados (useState).
 
-<a href="https://www.youtube.com/watch?v=R19Dz_d0Wp4&list=LL&index=14" target="_blank">Dia 2</a>
+<a>Dia 2</a>
 - Refatoração do código feito ontem.
 - Instalação da API do Expo voltada ao uso de ícones.
  
@@ -81,6 +81,12 @@
 `yarn add @react-navigation/stack`
 
 - Criação das rotas e boas práticas de UX.
+
+<a>Dia 3</a>
+- Criação da página de seleção das plantas.
+- Instalação de uma biblioteca do React Native que ajuda a fugir do notch do Iphone X.
+
+`yarn add react-native-iphone-x-helper`
 
 ## :pencil: Author
 
