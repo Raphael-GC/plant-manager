@@ -33,13 +33,12 @@
 
 `cd plant-manager`
 
-  <li> 4. Dentro do repositório, baixe as <a href="https://github.com/Raphael-GC/plant-manager/blob/main/dependencies.md" target="_blank">dependências</a> do projeto. </li>
+  <li> 4. Dentro do repositório, instale as <a href="https://github.com/Raphael-GC/plant-manager/blob/main/dependencies.md" target="_blank">dependências</a> do projeto. </li>
 
-  <li> 5. Para visualizar a aplicação em sua máquina utilize: </li>
+  <li> 5. Para visualizar a aplicação utilize o leitor QRcode do seu smartphone, apontando para a imagem que surgirá em seu terminal e browser após executar o comando abaixo:  </li>
 
-  <ol> O leitor QRcode do seu smartphone, apontando para a imagem que surgirá em seu terminal e browser após executar o cccomando abaixo: </ol>
+  `expo start` 
 
-`expo start`
 </ul>
 
 ## 💬 Funcionalidades
@@ -67,7 +66,7 @@
 <a>Dia 3</a>
 - Criação das páginas de seleção das plantas e de ambientes. 
 - Instalação de uma biblioteca do React Native que ajuda a fugir do notch do Iphone X.
-- Conheci o Spread Operator (...data).
+- Conheci o Spread Operator, ex: (...data).
 - Trabalhamos com imagens em SVG, scrool vertical e horizontal.
 - Adição de animação com Lottie na pag. PlantSelect.
 - Melhorias na UX com paginação utilizando API do Expo.
