@@ -33,17 +33,13 @@
 
 `cd plant-manager`
 
-  <li> 4. Dentro do repositório, baixe as dependências do projeto. </li>
+  <li> 4. Dentro do repositório, baixe as <a href="https://github.com/Raphael-GC/plant-manager/blob/main/dependencies.md" target="_blank">dependências</a> do projeto. </li>
 
   <li> 5. Para visualizar a aplicação em sua máquina utilize: </li>
 
-  <ol> Windows - (Necessita de instalacao previa do Android Studio) </ol>
+  <ol> O leitor QRcode do seu smartphone, apontando para a imagem que surgirá em seu terminal e browser após executar o cccomando abaixo: </ol>
 
-`yarn android` | `expo start`
-  
-  <ol> MacOS -  </ol>
-
-`yarn ios` | `expo start`
+`expo start`
 </ul>
 
 ## 💬 Funcionalidades
@@ -63,23 +59,9 @@
 <a>Dia 2</a>
 - Refatoração do código feito ontem.
 - Instalação da API do Expo voltada ao uso de ícones.
- 
-`expo install @expo/vector-icons`
-
 - Instalação da API do Expo voltada ao uso de fonts (Usando o CDN do próprio Google Fonts).
-
-`expo install expo-font @expo-google-fonts/inter`
-
 - Instalação da API do Expo que utilizamos na tela de carregamento.
-
-`expo install expo-app-loading`
-
 - Instalação das APIs do React que utilizamos para navegação entre as páginas.
-
-`yarn add @react-navegation/native`
-`expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view`
-`yarn add @react-navigation/stack`
-
 - Criação das rotas e boas práticas de UX.
 
 <a>Dia 3</a>
@@ -90,7 +72,9 @@
 - Adição de animação com Lottie na pag. PlantSelect.
 - Melhorias na UX com paginação utilizando API do Expo.
 
-`yarn add react-native-iphone-x-helper`
+<a>Dia 4</a>
+- 
+- 
 
 ## :pencil: Author
 
