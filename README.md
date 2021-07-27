@@ -83,8 +83,12 @@
 - Criação das rotas e boas práticas de UX.
 
 <a>Dia 3</a>
-- Criação da página de seleção das plantas.
+- Criação das páginas de seleção das plantas e de ambientes. 
 - Instalação de uma biblioteca do React Native que ajuda a fugir do notch do Iphone X.
+- Conheci o Spread Operator (...data).
+- Trabalhamos com imagens em SVG, scrool vertical e horizontal.
+- Adição de animação com Lottie na pag. PlantSelect.
+- Melhorias na UX com paginação utilizando API do Expo.
 
 `yarn add react-native-iphone-x-helper`
 
